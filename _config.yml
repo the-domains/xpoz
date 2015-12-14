@@ -1,0 +1,14 @@
+layout_spectrum: 0.1809882
+typography_spectrum: 0.9382384
+color:
+  saturation: 1
+  lightness: 0.8501611
+  brandStrength: 0.1039622
+  brandColors:
+    - '#A49B98'
+    - '#1F1E20'
+    - '#F1F0E2'
+    - '#304C88'
+    - '#64554A'
+  rhythmicContrast: 0.6663346
+name: XPOZ
